@@ -24,25 +24,25 @@
 <!--tech stack icons-->
 <h2 >Frontend:</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=react,angular,line=12" />
   </a>
 </p>
 <h2 >Backend:</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,express,django,line=12" />
   </a>
 </p>
 <h2 >Base de datos:</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,line=12" />
   </a>
 </p>
 <h2 >Herramientas:</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=css,html,vscode,postman,androidstudio,yarn,git,github,line=12" />
   </a>
 </p>
@@ -55,7 +55,7 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://skillicons.dev">
+     <a href="">
       <img src="https://skillicons.dev/icons?i=angular,androidstudio,line=12" align="center"/>
     </a>
     <p align="center">
@@ -65,7 +65,7 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://skillicons.dev">
+     <a href="">
       <img src="https://skillicons.dev/icons?i=python,django,html,css,line=12" align="center"/>
     </a>
     <p align="center">
@@ -76,7 +76,7 @@
   
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://skillicons.dev">
+     <a href="">
       <img src="https://skillicons.dev/icons?i=html,css,line=12" align="center"/>
     </a>
     <p align="center">
