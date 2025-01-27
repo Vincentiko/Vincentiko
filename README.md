@@ -9,40 +9,39 @@
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
-<p align="left">
-🎓 Analista Programador
-
-🎥 Actualmente, estudiante como Programador, buscando especializarme tanto en frontend como en backend.
-
-📝 roles en el ámbito: Desarrollador, lider, analista y en un futuro, quien sabe...
-
-📫 Contacto: **seb.benavides.quezada@gmail.com**
-<!--Intro end-->
-  </p>
+<p align="center">
+  🎓 Analista Programador
+  
+  🎥 Actualmente, estudiante como Programador, buscando especializarme tanto en frontend como en backend.
+  
+  📝 roles en el ámbito: Desarrollador, lider, analista y en un futuro, quien sabe...
+  
+  📫 Contacto: **seb.benavides.quezada@gmail.com**
+</p>
 <br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <h2 >Frontend:</h2>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,line=12" />
   </a>
 </p>
 <h2 >Backend:</h2>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,express,django,line=12" />
   </a>
 </p>
 <h2 >Base de datos:</h2>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,line=12" />
   </a>
 </p>
 <h2 >Herramientas:</h2>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,vscode,postman,androidstudio,yarn,git,github,line=12" />
   </a>
