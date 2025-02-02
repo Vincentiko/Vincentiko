@@ -88,12 +88,13 @@
 <td width="25%" align="center">
     <p align="center">
      <a href="">
-      <img src="https://skillicons.dev/icons?i=html,css,line=12" align="center"/>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,line=12" align="center"/>
     </a>
     <p align="center">
-      <a href="https://github.com/Ruben14f/HighWayDuocUc" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/Vincentiko/Portafolio-Sebastian.B" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>
     <h6>Pequeño portafolio<h6/>
+      <a href="https://vincentiko.github.io/Portafolio-Sebastian.B/">Haz click aquí</a>
 </td>
 
   
