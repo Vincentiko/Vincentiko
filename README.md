@@ -56,6 +56,17 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="">
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,line=12" align="center"/>
+    </a>
+    <p align="center">
+      <a href="https://github.com/Ruben14f/HighWayDuocUc" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>
+    <h6>Revista Sin Futuro: Aplicación web<h6/>
+      <a href="https://github.com/Vincentiko/Revista-Sin-Futuro2">Haz click aquí</a>
+</td>
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="">
       <img src="https://skillicons.dev/icons?i=angular,androidstudio,line=12" align="center"/>
     </a>
     <p align="center">
