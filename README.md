@@ -31,7 +31,7 @@
 <h2 >Backend:</h2>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,express,django,line=12" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,express,django,php,line=12" />
   </a>
 </p>
 <h2 >Base de datos:</h2>
@@ -43,7 +43,7 @@
 <h2 >Herramientas:</h2>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=css,html,vscode,postman,androidstudio,yarn,git,github,line=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,vscode,postman,androidstudio,yarn,git,github,wordpress,line=12" />
   </a>
 </p>
 
